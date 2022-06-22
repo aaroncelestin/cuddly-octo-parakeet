@@ -1,0 +1,1 @@
+<footer><p class ="text-sm text-slate-400">Copyright 2022 Primetime Physical Therapy LLC</p</footer>
